@@ -1,0 +1,44 @@
+.beautiful-navigation {
+  background-color: #363434;
+  padding: 10px;
+  text-align: center;
+}
+
+.beautiful-navigation a {
+  color: white;
+  text-decoration: none;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.beautiful-navigation a:hover {
+  background-color: rgb(45, 43, 47);
+  color: #837777;
+}
+
+body {
+  background-color: rgb(28, 27, 27);
+  color: rgb(152, 123, 123);
+}
+
+h2 {
+  text-align: center;
+}
+
+.form {
+  width: 30%;
+  height: 20%;
+  text-align: center;
+  margin: auto;
+}
+
+footer {
+  background-color: #292727;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
